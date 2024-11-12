@@ -1,0 +1,11 @@
+llama-index
+llama-index-core
+llama-parse
+openai
+llama-index-llms-openai
+python-dotenv
+giskard[llm]
+IPython
+langchain-core
+ragas
+pyarrow

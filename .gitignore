@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.env
+.idea
+.vscode
+notebooks/vector_index
+policy_store
+reports.csv
+test_set.csv
+.DS_Store
